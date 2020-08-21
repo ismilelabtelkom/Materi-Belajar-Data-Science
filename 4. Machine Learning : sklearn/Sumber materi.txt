@@ -1,0 +1,87 @@
+#day 1
+Video :
+
+https://www.youtube.com/watch?v=-G5-kHF57OU&list=PLVG7eNu-5tw8xewpZyxr451T2c8RuZNwq&index=3 (Apa itu Machine Learning)
+https://www.youtube.com/watch?v=f0sPXqlw464&list=PLVG7eNu-5tw8xewpZyxr451T2c8RuZNwq&index=4 (Supervised Learning and Unsupervised Learning)
+https://youtu.be/tVSrN9mrWU8 (Data Feature dan Data Target)
+https://youtu.be/k89y6qE8bj0 (Apa perbedaan Supervised Learning dan Unsupervised Learning)
+https://youtu.be/qE6qN4GY75M (Jenis-jenis Supervised Learning)
+https://youtu.be/KyEdlzEw1Hk (Step2 dalam Mengapplikasikan Algoritma Apapun dengan Machine Learning 1)
+https://youtu.be/3mWnR-UdFEQ (Mengaplikasikan Suatu Algoritma Machine Learning Dengan Sklearn)
+https://youtu.be/RWzjPnIK2U0 (Perbedaan Parameter dan Hyperparameter)
+
+
+
+#day 2
+List Video :
+
+Mengenal Algoritma KNN
+https://www.youtube.com/watch?v=Gow90EE7ttk&t=31s (Algoritma KNN)
+Kekurangan Algoritma KNN 1
+Kekurangan Algoritma KNN 2
+Cara Memilih Hyperparameter K di Algoritma KNN
+Contoh Aplikasi Algoritma KNN dengan Data Iris
+https://www.youtube.com/watch?v=q-vx92IC-x8 (Contoh Applikasi Algoritma KNN)
+https://www.youtube.com/watch?v=YKv4sOEHhYo&t=3s (Regresi Linear)
+Dasar Model Linear Regresi
+List Artikel :
+
+https://www.statistikian.com/2012/08/analisis-regresi-korelasi.html (Linear Regresi)
+https://medium.com/bee-solution-partners/cara-kerja-algoritma-k-nearest-neighbor-k-nn-389297de543e (Algoritma KNN)
+
+
+
+#day 3
+List Video :
+
+Cara Memvalidasi Performa Model 1
+Cara Memvalidasi Performa Model 2
+Validasi Model dengan Teknik Cross-Validaiton
+Kekurangan Metrik Accuracy
+Confusion Matriks
+Mengaplikasikan Confusion Matriks
+List Artikel :
+
+https://prasetiautamacv.wordpress.com/2018/07/16/bagaimana-mengevaluasi-algoritma-machine-learning/ (Evaluasi Model Cross Validation)
+https://medium.com/@ksnugroho/confusion-matrix-untuk-evaluasi-model-pada-unsupervised-machine-learning-bc4b1ae9ae3f ( Confusion Matrix )
+https://medium.com/@arifinrio95/memahami-roc-dan-auc-2e0e4f3638bf (Metriks ROC AUC)
+https://www.rezafaisal.net/?p=3068 (Confusion Matriks dan ROC AUC)
+
+
+
+#day 4
+List Video :
+
+Bias dan Variance 1
+Bias dan Variance 2
+Trade-off Bias dan Variance
+Generalisasi Model Machine Learning
+Overfitting dan Underfitting
+Praktik Tuning Hyperparameter Manual
+Hyperparameter Tuning dengan GridSearchCV dan RandomizedSearchCV
+List Artikel :
+
+https://www.uc.ac.id/ict/perbedaan-bias-dan-variance-dalam-machine-learning/ (Bias dan Variance)
+https://belajardatascience.blogspot.com/2018/05/overfitting-dan-underfitting-pada-model.html (Overfitting dan Underfitting)
+https://id.wikipedia.org/wiki/Overfitting (Overfitting dan Underfitting)
+https://www.codepolitan.com/menggunakan-gridsearchcv-untuk-mencari-parameter-optimal-pengklasifikasi-scikit-learn (GridSearchCV)
+
+
+
+
+List Video :
+
+Overview Materi
+Encoding Categorical Data
+Imputing Missing Value
+Feature Centering and Scaling
+Review Materi 1
+Review Materi 2
+List Artikel :
+
+https://medium.com/machine-learning-id/memproses-category-data-1515245c83e7 ( Encoding Categorical Data )
+https://hakim-azizul.com/proyek-machine-learning-dari-hulu-ke-hilir-end-to-end-part-5-mempersiapkan-data-untuk-algoritma-machine-learning-mengatasi-missing-values-dan-variabel-teks-kategori/ (Preprocessing Data)
+https://medium.com/warung-pintar/beberapa-cara-untuk-preprocessing-data-dalam-machine-learning-13cef4294614 ( Preprocessing Data )
+https://hakim-azizul.com/scikit-learn-beragam-strategi-mengisi-missing-values/ (Mengatasi Missing Data)
+https://medium.com/machine-learning-id/mengatasi-missing-data-dalam-dataset-cf5c7657dbf1 (Mengatasi Missing Data)
+https://medium.com/machine-learning-id/melakukan-feature-scaling-pada-dataset-229531bb08de (Centering dan Scaling)

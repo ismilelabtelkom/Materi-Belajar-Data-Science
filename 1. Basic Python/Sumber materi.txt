@@ -1,0 +1,60 @@
+# DAY1
+List Artikel :
+
+https://www.petanikode.com/python-pip/
+https://www.petanikode.com/python-sintaks/
+https://www.petanikode.com/python-variabel-dan-tipe-data/
+https://www.petanikode.com/python-operator/
+List Video :
+
+https://www.youtube.com/watch?v=SsUF-7X3ehM&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1 ( Pengenalan Python )
+https://www.youtube.com/watch?v=rqt-T1kl4PU&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=3 ( Number dan Operasi Matematika )
+https://www.youtube.com/watch?v=xlWN2fTyQFU&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=4 ( Python String )
+
+
+#DAY2
+List Artikel/Tutorial :
+
+https://www.petanikode.com/python-list/
+List Video :
+
+https://www.youtube.com/watch?v=kuLBqkpnKDk&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=5 (Python List)
+https://www.youtube.com/watch?v=NoX5wnjBaHo&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=17 (Python List 2)
+
+
+#DAY3
+List Artikel :
+
+https://belajarpython.com/tutorial/fungsi-python
+https://www.petanikode.com/python-fungsi/
+List Videos :
+
+https://www.youtube.com/watch?v=WjM68icSw3s&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=12 ( Pengenalan Fungsi )
+https://www.youtube.com/watch?v=vWuSLG_6rxA&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=13 ( Fungsi Argument )
+https://www.youtube.com/watch?v=23dDEp6WPH4&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=14 ( Return Value Function )
+
+
+#DAY4
+List Artikel :
+
+https://www.petanikode.com/python-percabangan/
+https://www.petanikode.com/python-perulangan/
+List Videos :
+
+https://www.youtube.com/watch?v=Hqndpzj0ZFg&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=6 ( Percabangan 1)
+https://www.youtube.com/watch?v=f28RoIcHZhY&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=7 ( Percabangan 2)
+https://www.youtube.com/watch?v=KMmZo_dvmyk&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=8 ( Loop 1 )
+https://www.youtube.com/watch?v=L5GGd1JHqnE&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=9 ( Loop 2 )
+https://www.youtube.com/watch?v=sLxR7vvPemY&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=10 ( Loop 3 )
+https://www.youtube.com/watch?v=S8PxQTcme9k&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=11 ( Loop 4)
+https://www.youtube.com/watch?v=ZnBZWAUusj8&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=22 (Optional : Materi Pengayaan)
+
+
+#DAY5
+List Artikel/Tutorial :
+
+https://belajarpython.com/tutorial/dictionary-python
+https://www.petanikode.com/python-dictionary/
+List Video :
+
+https://www.youtube.com/watch?v=ARfcEqYpzkk&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=21 ( Dictionary )

@@ -1,0 +1,28 @@
+#day1
+
+Video Belajar
+https://youtu.be/5DUjDr_iCQ4 ( Data Science Pengenalan Matplotlib )
+https://youtu.be/lxpf566gsDY ( Klarifikasi Video )
+
+
+#day2
+Video Pembelajaran
+https://youtu.be/yj-Vdi0t4rk
+
+
+#day3
+Video Pembelajaran
+https://youtu.be/_Kx4qT0sgGM (Membuat Beberapa Axes)
+https://youtu.be/f9jhv8-WvuY (Axes di Dalam Axes)
+
+
+#day4
+Video Pembelajaran
+https://youtu.be/zduwtYbQnkE ( Perbandingan Kuantitatif dengan Secatter Plot 1 )
+https://youtu.be/FTqGQXf-XOg ( Perbandingan Kuantitatif dengan Secatter Plot 2 )
+
+
+#day5
+https://youtu.be/gLEaW3MjiiU ( Perbandingan Kuantitatif Bar Plot 1 )
+https://youtu.be/TxG_7vA6lCg ( Perbandingan Kuantitatif Bar Plot 2 )
+https://youtu.be/vtbMImYNIzo ( Perbandingan Kuantitatif Bar Plot 3 )

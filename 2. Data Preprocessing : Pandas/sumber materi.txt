@@ -1,0 +1,46 @@
+#DAY1
+Video Pembelajaran
+https://youtu.be/3sU4Fn9w_ag (Membuat Series dari list)
+https://youtu.be/j-o7vsiWafg ( Perbedaan Series dan List )
+https://youtu.be/fg4HNG17qgI ( Perbedaan Series dan Dictionary )
+https://youtu.be/vKnx8sr9xHo ( Membaca dan Membuat DataFrame )
+
+External Source
+List Artikel :
+
+https://www.yuksinau.id/statistika-deskriptif/ (deskriptif statistik)
+https://petruknisme.com/2019/04/15/pengenalan-pandas-dan-series/
+https://code.tutsplus.com/id/tutorials/introducing-pandas–cms-26514
+List Video :
+
+https://www.youtube.com/watch?v=06cjWxfk-Zc&list=PLxBhf17jrfxEFnWyV4nuRZ24MglbAjZTE ( Numpy )
+https://www.youtube.com/watch?v=3krwFrozpek&list=PLxBhf17jrfxEFnWyV4nuRZ24MglbAjZTE&index=2 ( Google Colab : Optional)
+https://www.youtube.com/watch?v=qghFcRSdCSk&list=PLxBhf17jrfxEFnWyV4nuRZ24MglbAjZTE&index=3 ( Pandas Indexing )
+
+
+#DAY2
+External Source
+List artikel :
+
+https://www.it-swarm.dev/id/python/memilih-beberapa-kolom-dalam-bingkai-data-panda/1068562049/
+https://www.it-swarm.dev/id/python/pilih-baris-dari-dataframe-berdasarkan-nilai-nilai-dalam-kolom-di-panda/1073294319/
+https://www.it-swarm.dev/id/python/jatuhkan-kolom-yang-namanya-berisi-string-spesifik-dari-panda-dataframe/1041678799/ (Pandas Filtering)
+List Video :
+
+https://www.youtube.com/watch?v=OEaNilIlKPY&list=PLxBhf17jrfxEFnWyV4nuRZ24MglbAjZTE&index=4 (Data Transformasi)
+
+
+#DAY3
+https://www.youtube.com/watch?v=RcsrSayym5U
+https://www.youtube.com/watch?v=4UCiUozb0ZQ
+
+
+#DAY4
+https://www.youtube.com/watch?v=FQWm_HJAhJ8
+https://www.youtube.com/watch?v=I1ZTZuZ1dtw
+
+
+#DAY5
+https://www.it-swarm.dev/id/python/penggabungan-panda-101/807882802/
+https://www.youtube.com/watch?v=BeTEJCThNXk
+https://www.youtube.com/watch?v=n2QuPsIcUW0
